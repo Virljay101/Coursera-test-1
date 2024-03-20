@@ -1,1 +1,2 @@
-This is for creating a site 
+This is the new site created using the github page 
+
